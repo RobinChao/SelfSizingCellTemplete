@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "00FB36E31A510C23004DEBB7"
-               BuildableName = "SelfSizingCellDemo.app"
-               BlueprintName = "SelfSizingCellDemo"
-               ReferencedContainer = "container:SelfSizingCellDemo.xcodeproj">
+               BlueprintIdentifier = "F471992219B83CFB001E253F"
+               BuildableName = "SelfSizingDemo.app"
+               BlueprintName = "SelfSizingDemo"
+               ReferencedContainer = "container:SelfSizingDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "00FB36F81A510C24004DEBB7"
-               BuildableName = "SelfSizingCellDemoTests.xctest"
-               BlueprintName = "SelfSizingCellDemoTests"
-               ReferencedContainer = "container:SelfSizingCellDemo.xcodeproj">
+               BlueprintIdentifier = "F471993419B83CFB001E253F"
+               BuildableName = "SelfSizingDemoTests.xctest"
+               BlueprintName = "SelfSizingDemoTests"
+               ReferencedContainer = "container:SelfSizingDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "00FB36F81A510C24004DEBB7"
-               BuildableName = "SelfSizingCellDemoTests.xctest"
-               BlueprintName = "SelfSizingCellDemoTests"
-               ReferencedContainer = "container:SelfSizingCellDemo.xcodeproj">
+               BlueprintIdentifier = "F471993419B83CFB001E253F"
+               BuildableName = "SelfSizingDemoTests.xctest"
+               BlueprintName = "SelfSizingDemoTests"
+               ReferencedContainer = "container:SelfSizingDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "00FB36E31A510C23004DEBB7"
-            BuildableName = "SelfSizingCellDemo.app"
-            BlueprintName = "SelfSizingCellDemo"
-            ReferencedContainer = "container:SelfSizingCellDemo.xcodeproj">
+            BlueprintIdentifier = "F471992219B83CFB001E253F"
+            BuildableName = "SelfSizingDemo.app"
+            BlueprintName = "SelfSizingDemo"
+            ReferencedContainer = "container:SelfSizingDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "00FB36E31A510C23004DEBB7"
-            BuildableName = "SelfSizingCellDemo.app"
-            BlueprintName = "SelfSizingCellDemo"
-            ReferencedContainer = "container:SelfSizingCellDemo.xcodeproj">
+            BlueprintIdentifier = "F471992219B83CFB001E253F"
+            BuildableName = "SelfSizingDemo.app"
+            BlueprintName = "SelfSizingDemo"
+            ReferencedContainer = "container:SelfSizingDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "00FB36E31A510C23004DEBB7"
-            BuildableName = "SelfSizingCellDemo.app"
-            BlueprintName = "SelfSizingCellDemo"
-            ReferencedContainer = "container:SelfSizingCellDemo.xcodeproj">
+            BlueprintIdentifier = "F471992219B83CFB001E253F"
+            BuildableName = "SelfSizingDemo.app"
+            BlueprintName = "SelfSizingDemo"
+            ReferencedContainer = "container:SelfSizingDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

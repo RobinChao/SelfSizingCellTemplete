@@ -1,20 +1,18 @@
 //
-//  Cell.swift
-//  SelfSizingCellDemo
+//  CustomTableViewCell.swift
+//  SelfSizingDemo
 //
-//  Created by Robin.Chao on 12/29/14.
-//  Copyright (c) 2014 Robin. All rights reserved.
+//  Created by Simon Ng on 4/9/14.
+//  Copyright (c) 2014 AppCoda. All rights reserved.
 //
 
 import UIKit
 
-class Cell: UITableViewCell {
+class CustomTableViewCell: UITableViewCell {
     
-    @IBOutlet weak var nameLabel: UILabel!
+    @IBOutlet var nameLabel:UILabel!
+    @IBOutlet var addressLabel:UILabel!
 
-    @IBOutlet weak var addressLabel: UILabel!
-    
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
@@ -25,4 +23,5 @@ class Cell: UITableViewCell {
 
         // Configure the view for the selected state
     }
+
 }

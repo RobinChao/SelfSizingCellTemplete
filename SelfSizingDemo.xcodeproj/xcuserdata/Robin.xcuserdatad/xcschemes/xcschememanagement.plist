@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SelfSizingCellDemo.xcscheme</key>
+		<key>SelfSizingDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>00FB36E31A510C23004DEBB7</key>
+		<key>F471992219B83CFB001E253F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>00FB36F81A510C24004DEBB7</key>
+		<key>F471993419B83CFB001E253F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

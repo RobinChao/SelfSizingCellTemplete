@@ -1,15 +1,15 @@
 //
-//  SelfSizingCellDemoTests.swift
-//  SelfSizingCellDemoTests
+//  SelfSizingDemoTests.swift
+//  SelfSizingDemoTests
 //
-//  Created by Robin.Chao on 12/29/14.
-//  Copyright (c) 2014 Robin. All rights reserved.
+//  Created by Simon Ng on 4/9/14.
+//  Copyright (c) 2014 AppCoda. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class SelfSizingCellDemoTests: XCTestCase {
+class SelfSizingDemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
